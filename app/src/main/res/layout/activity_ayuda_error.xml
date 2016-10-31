@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="website.timrobinson.opencvtutorial.ayudaError"
+    android:background="@drawable/color3">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bienvenido a la Ayuda"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forma Incorrecta de Enfoque"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp" />
+
+    <ImageView
+        android:layout_width="500px"
+        android:layout_height="900px"
+        android:id="@+id/imageView"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="46dp"
+        android:minHeight="100dp"
+        android:minWidth="250dp"
+        android:src="@drawable/mal"
+        />
+
+    <Button
+        android:drawableBottom="@drawable/adelante"
+        android:layout_height="120px"
+        android:id="@+id/btnirayuda2"
+        android:layout_width="100px"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:onClick="btnIrAyudaBien"
+        android:layout_alignBaseline="@+id/btniregresar2"
+        android:layout_alignBottom="@+id/btniregresar2"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="17dp" />
+
+    <Button
+        android:drawableBottom="@drawable/atras"
+        android:layout_height="120px"
+        android:layout_marginTop="107dp"
+        android:id="@+id/btniregresar2"
+        android:layout_width="100px"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:onClick="btnIrPrincipal"
+        android:layout_alignTop="@+id/imageView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="14dp"
+        android:nestedScrollingEnabled="true" />
+
+</RelativeLayout>

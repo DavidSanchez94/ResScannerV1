@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\David\AndroidStudioProjects\OpenCv-for-Android-Color-Detection-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\David\AndroidStudioProjects\OpenCv-for-Android-Color-Detection-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_d6f7c3b873a3b95b660ce5e54a2ab119d8ee2734\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\David\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\David\AndroidStudioProjects\OpenCv-for-Android-Color-Detection-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_2f97e32a362ae5f50e9d39e8253a1995f8c32592\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\David\AndroidStudioProjects\OpenCv-for-Android-Color-Detection-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\David\AndroidStudioProjects\OpenCv-for-Android-Color-Detection-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_b616aec865841c414fa5b8e8cdbb5d22be7cb0f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\David\AndroidStudioProjects\OpenCv-for-Android-Color-Detection-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6a2266e5e50b04fab9ef3265e88848f6f05b62eb">
+        <dex dex="C:\Users\David\AndroidStudioProjects\OpenCv-for-Android-Color-Detection-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_46e246e4129fc87d1bf01e2e86420b5104399e9b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\David\AndroidStudioProjects\OpenCv-for-Android-Color-Detection-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\David\AndroidStudioProjects\OpenCv-for-Android-Color-Detection-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_d6e483c5fbbcc526d929f9b359d9d2370937a116\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\David\AndroidStudioProjects\OpenCv-for-Android-Color-Detection-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e2c746da1c08acf4d1d3a0abdfec6bcb046b593d">
+        <dex dex="C:\Users\David\AndroidStudioProjects\OpenCv-for-Android-Color-Detection-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2d14e338575d9595fd2dc9145f8a9859eb20ab30\classes.dex" />
+    </item>
+
+</items>
